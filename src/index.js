@@ -24,7 +24,7 @@ const providerConfig = {
   clientId: config.clientId,
   redirectUri: window.location.origin,
   useRefreshTokens: true,
-  audience: "https://idmerge.mcafee.com",
+  audience: "https://api.mcafee.com",
   onRedirectCallback,
   cacheLocation: "localstorage",
 };

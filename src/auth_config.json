@@ -1,5 +1,5 @@
 {
-  "domain": "idstg.mcafee.com",
+  "domain": "idmerge.mcafee.com",
   "clientId": "UsQNankxSxvgxWRsg3hJskSxvD5OQEJN",
-  "audience": "https://idmerge.mcafee.com"
+  "audience": "https://api.mcafee.com"
 }
