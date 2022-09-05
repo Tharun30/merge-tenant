@@ -26,7 +26,6 @@ const providerConfig = {
   useRefreshTokens: true,
   audience: "https://api.mcafee.com",
   onRedirectCallback,
-  cacheLocation: "localstorage",
 };
 
 ReactDOM.render(
